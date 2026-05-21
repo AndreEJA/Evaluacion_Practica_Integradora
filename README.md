@@ -172,7 +172,10 @@ git clone https://github.com/usuario/repositorio.git
 # 👥 Integrantes
 
 - Andre Joiner
-- [Agregar integrantes del equipo]
+- Harry Bodan
+- Claudia Sofia
+- Solieth Trejos
+- Enrique Taleno
 
 ---
 
