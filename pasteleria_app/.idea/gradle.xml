@@ -7,7 +7,7 @@
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Users\etaln\Downloads\gradle-9.4.1-bin\gradle-9.4.1" />
+        <option name="gradleHome" value="C:\Users\hebod\Downloads\gradle-9.4.1-bin\gradle-9.4.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
